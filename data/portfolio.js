@@ -504,7 +504,7 @@ window.PORTFOLIO = {
       meta: [
         { label: "Role", value: "Team Lead & Flutter Developer" },
         { label: "Company", value: "Tessafold" },
-        { label: "Period", value: "2025 — 2026" },
+        { label: "Period", value: "2025" },
         { label: "Platforms", value: "iOS · Android" },
       ],
       highlights: [
@@ -551,7 +551,7 @@ window.PORTFOLIO = {
       meta: [
         { label: "Role", value: "Team Lead & Flutter Developer" },
         { label: "Company", value: "Tessafold" },
-        { label: "Period", value: "2025 — 2026" },
+        { label: "Period", value: "2025" },
         { label: "Platforms", value: "iOS · Android" },
       ],
       highlights: [
