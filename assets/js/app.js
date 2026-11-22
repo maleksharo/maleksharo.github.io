@@ -379,7 +379,7 @@
 
   $("#work").innerHTML = `
     <div class="wrap">
-      ${sectionHead("01", "Selected *work*", "Apps in production, built with product teams. Each one is in real hands today.")}
+      ${sectionHead("01", "Selected *work*", "Products I have worked on with their teams, from healthcare to travel.")}
       ${featured.map((p, i) => chapter(p, i, featured.length)).join("")}
       ${
         archive.length

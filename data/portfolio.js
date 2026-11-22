@@ -84,7 +84,7 @@ window.PORTFOLIO = {
         period: "2025 — Present",
         role: "Flutter Developer",
         company: "Ayat Group · Damascus",
-        text: "Built and published the DomeCare patient and clinic apps, contributed to DomeCare Pharma, and built Mosafer, an intercity bus booking app with online payment and a full test suite.",
+        text: "Delivered features across the DomeCare apps (patient, clinic and pharma) and built Mosafer, an intercity bus booking app with online payment, where I wrote the full test suite.",
       },
       {
         period: "2024 — 2025",
@@ -137,7 +137,7 @@ window.PORTFOLIO = {
       },
       {
         title: "Quality & delivery",
-        items: ["Unit, bloc & widget tests", "mocktail", "bloc_test", "Azure Pipelines", "Firebase App Distribution", "Google Play", "App Store", "Git", "Jira", "Bitbucket", "Claude", "Cursor"],
+        items: ["Unit, bloc & widget tests", "mocktail", "bloc_test", "Azure Pipelines", "Codemagic", "Firebase App Distribution", "Google Play", "App Store", "Git", "Jira", "Bitbucket", "Claude", "Cursor"],
       },
     ],
 
@@ -168,7 +168,7 @@ window.PORTFOLIO = {
         "It also looks after the everyday part of health: medication reminders, health calculators and logs, and family members whose accounts one person manages.",
       ],
       meta: [
-        { label: "Role", value: "Flutter Developer" },
+        { label: "Role", value: "Flutter Developer · feature work" },
         { label: "Company", value: "Ayat Group" },
         { label: "Period", value: "2025 — Present" },
         { label: "Platforms", value: "iOS · Android" },
@@ -216,7 +216,7 @@ window.PORTFOLIO = {
         "Writing a prescription becomes a search-and-tap job, with a drug database behind it and templates for the ones a doctor writes most often.",
       ],
       meta: [
-        { label: "Role", value: "Flutter Developer" },
+        { label: "Role", value: "Flutter Developer · feature work" },
         { label: "Company", value: "Ayat Group" },
         { label: "Period", value: "2025 — Present" },
         { label: "Platforms", value: "iOS · Android" },
@@ -264,7 +264,7 @@ window.PORTFOLIO = {
         "Connections are not guaranteed, so the app carries an encrypted local copy of the catalogue and keeps searching and building carts offline.",
       ],
       meta: [
-        { label: "Role", value: "Flutter Developer" },
+        { label: "Role", value: "Flutter Developer · feature work" },
         { label: "Company", value: "Ayat Group" },
         { label: "Period", value: "2025 — Present" },
         { label: "Platforms", value: "iOS · Android" },
@@ -327,7 +327,7 @@ window.PORTFOLIO = {
         "Feature-first clean architecture across nine features: data sources, repositories, use cases, Blocs.",
         "Errors as values: one HTTP manager throws typed failures and every layer above it returns Either.",
         "auto_route navigation behind an auth guard. An expired session is handled once, even when several requests fail together.",
-        "More than 1,000 unit, bloc and widget test cases in 140 files (flutter_test, mocktail, bloc_test).",
+        "I wrote the test suite: more than 1,000 unit, bloc and widget test cases in 140 files (flutter_test, mocktail, bloc_test).",
         "Azure Pipelines runs analysis and the whole test suite before any release build, then ships to Firebase App Distribution.",
         "Token in secure storage, Crashlytics and Analytics, R8-minified release builds.",
       ],
